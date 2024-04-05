@@ -58,7 +58,6 @@ const repos = {
   gitHubUsername: "ryjtoh", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [
-    "home",
     "ace-the-interview-nextjs",
     "spotifytimecapsule",
     "whereisthatpokemon",

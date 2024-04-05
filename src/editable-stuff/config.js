@@ -57,7 +57,12 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "ryjtoh", //i.e."johnDoe12Gh"
   reposLength: 4,
-  specificRepos: [],
+  specificRepos: [
+    "home",
+    "ace-the-interview-nextjs",
+    "spotifytimecapsule",
+    "whereisthatpokemon",
+  ],
 };
 
 // Leadership SECTION
